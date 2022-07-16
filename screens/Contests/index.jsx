@@ -12,6 +12,7 @@ import {
 } from "native-base";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Footer } from "../../base";
+import moment from "moment";
 export default function Contests(props) {
   // const router = useRouter(); //use incase of Nextjs
     useEffect(() => {

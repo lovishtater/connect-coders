@@ -4,7 +4,7 @@ import { StyleSheet, View } from "react-native";
 import { createDrawerNavigator } from "@react-navigation/drawer";
 import { NavigationContainer } from "@react-navigation/native";
 import { NativeBaseProvider, extendTheme, theme as nbTheme } from "native-base";
-import StarterIntro from "./screens/StarterIntro";
+// import StarterIntro from "./screens/StarterIntro";
 import SignUp from "./screens/SignUp";
 import SignIn from "./screens/SignIn";
 import Contest from "./screens/Contests";
